@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=haozhangcn&count_private=true&show_icons=true"/>
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=kYcJGti-gQUTsq9jbpOdRdc76iwwRnqebOil_yHkiUI"></script>
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:haozhangcn@ieee.org"><img alt="Email" src="https://img.shields.io/badge/Email-haozhangcn@ieee.org-blue?style=flat-square&logo=gmail"></a>
 
