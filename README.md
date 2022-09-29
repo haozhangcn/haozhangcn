@@ -1,6 +1,6 @@
 ### Hi, I am Hao Zhang👋
 
-<strong> You can visit my [homepage](http://haozhangcn.com) for more information. </strong>
+<strong> Please visit my [homepage](http://haozhangcn.com) for more information. </strong>
 
 <!--
 **haozhangcn/haozhangcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
